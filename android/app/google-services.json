@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027572257413",
+    "project_id": "codelink-eb599",
+    "storage_bucket": "codelink-eb599.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027572257413:android:eb4dfc4df13e39c268cfec",
+        "android_client_info": {
+          "package_name": "com.switch2connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKnk9bn-0pmkeCnPagicFpKumnSuhrz2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
